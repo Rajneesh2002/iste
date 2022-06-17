@@ -1,0 +1,179 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    height: 43px;   
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    height: 800px;
+    border: 5px solid white;
+    background:  radial-gradient(circle,#fff, #ffd6d6); 
+}
+
+.logo{
+    margin-left: 0132px;
+    margin-top: 0px;
+    padding-top: 24px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.header.row{
+    margin-top: 50px;
+}
+.row {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 900px;
+}
+.col {
+    display: inline-block;
+    flex-basis: 40%;
+    min-width:300px;
+    height: 400px;
+    margin-left: 0px;
+    padding-left: 181px;
+    margin-left: 0px; 
+    padding-right: 31px;
+    height: 414px;
+    padding-left: 83px;
+    padding:auto;
+    margin-top: -41px; 
+}
+h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px 0;
+    height: 150px;
+    width: 520px;
+    margin-bottom: 9px;
+    font-weight: 715;
+}
+h2{
+    height: 56px;
+}
+.col p{
+    color: rgb(85, 85, 85);
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-top: 0px;
+    height:76px;
+    font-size: 17px;
+    width: 570px;
+}
+.btn{
+    background-color:#ffd6d6 ;
+    text-decoration: none;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 0px;
+    padding-top: 6px;
+    width: 174px;
+    height: 42px;
+    border-radius: 8px;
+    color: black;
+    margin-left: 3px;
+    padding-left: 23px;
+    padding-top: 11px;
+}
+
+.col2
+{
+    flex-basis: 54%;
+    margin-top: -125px;
+    height: 557px;
+}
+.col2 img{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    margin-left: 29px;
+}
+.offer{
+    background:  radial-gradient(circle,#fff, #ffd6d6);
+    border: 4px solid white;
+    height: 524px;
+    width: 100%;
+    display: inline-block;
+    color: #555;
+    font-family: 'Poppins', sans-serif;
+}
+.row1{
+    display: inline-block;
+    height: 78%;
+    width: 40%;
+    margin-top: 55px;
+    margin-left: 150px;  
+}
+.me{
+    height: 100%;
+    width: 100%;
+}
+#col3{
+    max-width: 100%;
+    height: 390px;
+    width: 393px;
+    margin-left: 204px;
+    float: left; 
+}
+
+.me img{
+    height: 100%;
+    margin-left: -27px;
+    padding-left: 114px;
+}
+.col4{
+    margin-top: -1px;
+    margin-left: 145px;
+}
+#col4 p{
+    margin-top: 69px;
+}
+#col4 h1{
+    font-size: 50px;
+    height: 91px;
+    display: inline-block;
+    color: #555;
+    width: 450px;
+    margin-top: 2px;
+    margin-bottom: -5px;
+}
+#col4 small{
+    display: inline-block;
+    line-height: 26px;
+    font-size: 14px;
+    width: 443px;
+}
+.offer .btn{
+    margin-left: 12px;
+    margin-top: 30px;
+    padding-left: 36px;
+    background-color: rgb(85, 85, 215);
+    color: white;
+    width: 160px;
+}
+.brands{
+
+    
+    width: 100%;
+    height: 100px;
+}
+.row5{
+
+height: 90px;
+
+}
+.col5{
+    display: inline-flex;
+    height: 60px;
+    width: 160px;
+    
+}
+
